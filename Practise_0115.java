@@ -6,7 +6,7 @@ public class Practise_0115 {
 //        使太阳可见
         sun2.makeVisible();
 
-//        用Circle类的slowMoveVertical实现日落
+//        用Circle类的slowMoveVertical方法实现日落
         sun2.slowMoveVertical(100);
 
     }
